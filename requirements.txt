@@ -1,0 +1,5 @@
+BeautifulSoup==3.2.1
+argparse==1.2.1
+twill==0.9.1
+wsgiref==0.1.2
+
